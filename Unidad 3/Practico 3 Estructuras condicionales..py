@@ -1,7 +1,7 @@
 # 1)
-edad= int(input("ingrese su edad: "))
-if edad>=18:
-    print("es mayor de edad")
+# edad= int(input("ingrese su edad: "))
+# if edad>=18:
+#     print("es mayor de edad")
 
 # 2)
 # nota = int(input("ingrese su nota: "))
@@ -170,5 +170,3 @@ if edad>=18:
 
 
 
-
-    
