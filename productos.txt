@@ -1,0 +1,3 @@
+carpeta,100.0,2
+lapicera,50.0,1
+lapiz,10.0,3
